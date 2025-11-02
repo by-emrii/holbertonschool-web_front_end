@@ -132,16 +132,16 @@ a:active {
     text-align: center;
 }
 
-.card-testimonial .card-quote cite {
-    display: block;
-    padding: 1rem;
-    color: var(--color-primary);
-}
-
-.card-avatar {
+.card-testimonial .card-avatar {
     border-radius: 50%;
     width: 10rem;
     height: 10rem;
+}
+
+.card-testimonial .card-quote cite {
+    display: block;
+    padding-top: 1rem;
+    color: var(--color-primary);
 }
 
 .section {
